@@ -1,7 +1,4 @@
 
----
-
-### Personal Budget Tracker – `README.md`
 
 ```markdown
 # Personal Budget Tracker
