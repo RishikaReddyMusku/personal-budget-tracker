@@ -1,9 +1,6 @@
-
-
-```markdown
 # Personal Budget Tracker
 
-A full-stack MERN application to help users manage their personal expenses. It includes secure login, category-based filtering, date-based filtering, and visual analytics using dynamic pie charts.
+A full-stack MERN application that allows users to manage their personal expenses. Includes user authentication, expense filtering by category/date, and dynamic visualizations through pie charts. Built with scalability and usability in mind.
 
 ---
 
@@ -14,12 +11,12 @@ https://personalbudget-tracker.vercel.app/
 
 ## Features
 
-- User authentication with JWT  
+- Secure user authentication with JWT  
 - Add, edit, and delete personal expenses  
 - Filter expenses by category and date  
 - Real-time pie chart visualizations using Chart.js  
-- Fully responsive and deployed frontend/backend  
-- Clean and professional user interface  
+- Responsive design and professional UI  
+- Fully deployed frontend and backend  
 
 ---
 
@@ -27,14 +24,14 @@ https://personalbudget-tracker.vercel.app/
 
 ### Frontend:
 - React.js  
-- Axios for HTTP requests  
+- Axios for API requests  
 - Chart.js for data visualization  
 - React Router for navigation  
 
 ### Backend:
 - Node.js  
-- Express.js for REST API  
-- MongoDB with Mongoose for data modeling  
+- Express.js (REST API)  
+- MongoDB + Mongoose for data modeling  
 - JWT for authentication  
 
 ---
